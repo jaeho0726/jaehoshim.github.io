@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Resume"
+    url: /files/ #Resume.pdf  #put my resume in file named files as pdf
+  
+  - title: "Portfolio"
+    url: /portfolio/
+  
+  - title: "Activities"
+    url: /activities/ # UCLA 
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  # - title: "Guide"
+  #   url: /markdown/
