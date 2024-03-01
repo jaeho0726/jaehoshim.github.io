@@ -1,12 +1,9 @@
 ---
-title: "UCLA"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "UCLA Summer Session (COM SCI 97)"
+excerpt: "First step of crafting my knowledge in computer science & data science. (change image)  <br/><img src='/images/UCLA Summer Session Image.png'>"
+collection: activities
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In UCLA Summer Session 2021, I took COM SCI 97 Course - Variable Topics in Computer Science: Introduction to Data Science. I learned  Python and college level statistics such as regression, regularization, and classifications. In 3 weeks of program, my team and I applied the concepts in creating a program that links people with similar music preference based on their playlist to help overcome potential depression and loneliness during Pandemic. 
+
+#### _Unfortunately, the python file of the project is lost..._ 
