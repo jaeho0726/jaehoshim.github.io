@@ -14,19 +14,19 @@ name                     : &name "Jaeho Shim"
 description              : &description "personal description"
 url                      : https://jaehoshim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jaehoshim/jaehoshim.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "JaehoShimProfilePic.png"
+  avatar           : "profile.png"
   name             : "Jaeho Shim"
   pronouns         : # example: "she/her"  
   bio              : "UC San Diego"
   location         : "San Diego, CA / Seoul, Korea"
-  employer         : # 
+  employer         : # URL
   uri              : # URL
   email            : "jhshim0726@gmail.com" 
 
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Replace this with your X / Twitter handle
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
