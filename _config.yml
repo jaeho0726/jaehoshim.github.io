@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "JaehoShimProfilePic.png" width = "300px"
+  avatar           : "JaehoShimProfilePic.png"
   name             : "Jaeho Shim"
   pronouns         : # example: "she/her"  
   bio              : "UC San Diego"
