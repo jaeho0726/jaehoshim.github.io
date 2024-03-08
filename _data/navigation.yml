@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Resume"
-    url: /files/ #Resume.pdf  #put my resume in file named files as pdf
+    url: /files/Resume.pdf  #put my resume in file named files as pdf
   
   - title: "Portfolio"
     url: /portfolio/portfolio-1.md
