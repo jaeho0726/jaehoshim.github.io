@@ -4,10 +4,10 @@ main:
     url: /files/Resume.pdf  #put my resume in file named files as pdf
   
   - title: "Portfolio"
-    url: /portfolio/portfolio-1.md
+    url: /_portfolio/portfolio-1.md
   
   - title: "Activities"
-    url: /activities/UCLA.md
+    url: /_activities/UCLA.md
 
   # - title: "Talks"
   #   url: /talks/    
