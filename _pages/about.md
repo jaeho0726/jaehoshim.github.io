@@ -3,8 +3,9 @@ permalink: /
 title: "👋🏼 Hello! 안녕하세요!" "I'm Jaeho Shim! 저는 심재호입니다."
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  # - /about/
+  # - /about.html
+    - /pages/about.md
 ---
 
 <!-- ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
