@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello, I'm Jaeho Shim! 안녕하세요, 저는 심재호입니다."
+title: "👋🏼 Hello, I'm Jaeho Shim! 안녕하세요, 저는 심재호입니다!"
 author_profile: true
 redirect_from: 
   # - /about/
@@ -10,6 +10,7 @@ redirect_from:
 
 <!-- ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
 👨🏻‍💻 I am an undergraduate freshman at University of California, San Diego.
+<!-- image of UCSD -->
 
 📚 I am currently majoring in **Bachelor of Science, Mathematics-Computer Science**.
 
