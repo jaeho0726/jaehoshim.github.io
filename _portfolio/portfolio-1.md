@@ -1,13 +1,12 @@
 ---
 title: "Chelsea Touchbox Passion Project"
-excerpt: "Passion Project (change later) <br/><img src='/images/500x300.png'>"
+excerpt: "Passion Project <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
 #### As a passionate soccer enthusiast, soccer was beyond mere entertainment. My emotional state of the week depended on the outcome of Chelsea fixture. As a result, hoping Chelsea to perform the best as possible, I found myself asking the following question to myself. 
 
 ### _In what position should each player play in the field to show their absolute ability?_
-
 
 
 First, I divided the filed into 22 distinct areas and reviewed all Chelsea games played in 2020-21 season and 2021-2022 season under manager Thomas Tuchel. (images) I meticulously recorded every instance of ball possession: **who** touched the ball in **what area** in **which game**. This data was recorded in Google Sheet. Utilizing this data, I created an interactive dashboard aiming to transform raw data to meaningful visualizations. 
