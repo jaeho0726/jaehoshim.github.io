@@ -31,7 +31,7 @@ I've applied statistical skills to analyze data relevant to my interests, utiliz
 
 Feel free to look at the specific details about my project at portfolio (link to page)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQhqmZ6uv5bDf7TfiPXQURDsazJg_2p8rVWPhjCi_6UflF0QKVu4wgkLAxzZ82iHcBhi0M_i3GBfhct/pubhtml?gid=600968433&amp;single=true&amp;widget=true&amp;headers=false" width = 1000 height = 500></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQhqmZ6uv5bDf7TfiPXQURDsazJg_2p8rVWPhjCi_6UflF0QKVu4wgkLAxzZ82iHcBhi0M_i3GBfhct/pubhtml?gid=600968433&amp;single=true&amp;widget=true&amp;headers=false" width = 1500 height = 750></iframe>
 
 ## Activities 
 ### UCLA Summer Institute Program (COM SCI 97)
