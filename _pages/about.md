@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 <!-- ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
-👨🏻‍💻 I am an undergraduate freshman at University of California, San Diego.
+👨🏻‍💻 I am an undergraduate freshman at University of California, San Diego. 
 <!-- image of UCSD -->
 
 📚 I am currently majoring in **Bachelor of Science, Mathematics-Computer Science**.
 
 📚 I am currently minoring in **Bachelor of Science, Data Science**. 
 
-🪖 I currently serve in **Republic of Korea Air Force** with a speciality in **Assistant of Drill Instructor of the 4th Airman Training Squadron**. 
+🪖 I currently serve in **Republic of Korea Air Force** with a speciality in **Assistant Drill Instructor at the 4th Airman Training Squadron**. 
 
 💡 I am interested in ___. 
 
