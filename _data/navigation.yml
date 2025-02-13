@@ -4,7 +4,7 @@ main:
     url: /files/Resume.pdf  #put my resume in file named files as pdf
   
   - title: "Portfolio"
-    url: /portfolio/portfolio-1.md
+    url: /portfolio/
   
   - title: "Activities"
     url: /activities/UCLA.md
