@@ -8,7 +8,6 @@ collection: portfolio
 
 <iframe src="https://docs.google.com/spreadsheets/d/1AFQxzJixnjGqbNqRooUGeZjIhP8EUNsEAoV_6amJCNw/edit?usp=sharing;widget=true&amp;headers=false;rm=minimal&amp;single=true&amp" width = "1000" height = 750></iframe>
 
-https://docs.google.com/spreadsheets/d/e/2PACX-1vQhqmZ6uv5bDf7TfiPXQURDsazJg_2p8rVWPhjCi_6UflF0QKVu4wgkLAxzZ82iHcBhi0M_i3GBfhct/pubhtml?gid=600968433&amp;single=true&amp; 
 
 ### _In what position should each player play in the field to show their absolute ability?_
 
