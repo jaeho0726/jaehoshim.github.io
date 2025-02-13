@@ -6,7 +6,7 @@ collection: portfolio
 
 #### As a passionate soccer enthusiast, soccer was beyond mere entertainment. My emotional state of the week depended on the outcome of Chelsea fixture. As a result, hoping Chelsea to perform the best as possible, I found myself asking the following question to myself. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/1AFQxzJixnjGqbNqRooUGeZjIhP8EUNsEAoV_6amJCNw/edit?usp=sharing;widget=true&amp;headers=false;rm=minimal&amp;single=true&amp" width = "1000" height = 750></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1AFQxzJixnjGqbNqRooUGeZjIhP8EUNsEAoV_6amJCNw/edit?usp=sharing;gid=600968433&amp;widget=true&amp;headers=false;rm=minimal&amp;single=true&amp" width = "1000" height = 750></iframe>
 
 
 ### _In what position should each player play in the field to show their absolute ability?_
