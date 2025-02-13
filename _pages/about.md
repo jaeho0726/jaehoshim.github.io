@@ -16,6 +16,8 @@ redirect_from:
 
 📚 I am currently minoring in **Bachelor of Science, Data Science**. 
 
+🪖 I currently serve in Republic of Korea Air Force with a speciality in assistant of drill instructor of the 4th Airman Training Squadron. 
+
 💡 I am interested in ___. 
 
 🚨 This website is currently on development stage. <!-- change it later -->
